@@ -20,11 +20,19 @@ Step 3 - Interact with Your Deployed Smart Contract (Adding interact screenshot 
 
 # Compile and Deploy Your Contract in the JavaScript VM
 
-- Compile your smart contract
+- Compile smart contract, Deploy the smart contract in the JavaScript VM
 
-- Deploy the smart contract in the JavaScript VM
+### Successfully deployed joint saving contract screenshot
 
-![alt text](https://github.com/
+![alt text](https://github.com/Khaingz/Solidity-Smart-Contract--Joint-saving-account/blob/main/Execution_Results/Successfully%20deployed%20joint%20saving%20contract%20Screenshot.png)
+
+
+
+
+
+
+
+
 
 
 # Interact with your Deployed Smart Contract
@@ -33,7 +41,9 @@ The folowing screenshots demonstrates the Joint Savings contract being deployed 
 
 1. Use the "setAccounts" function to defined the authorized Etherreum address that will able to withdraw funds from your contract.
 
-![alt text](https://github.com/
+### "setAccounts" function screenshot
+
+![alt text](https://github.com/Khaingz/Solidity-Smart-Contract--Joint-saving-account/blob/main/Execution_Results/Set%20Account%20Screenshot.png)
 
 
 
@@ -46,7 +56,20 @@ The folowing screenshots demonstrates the Joint Savings contract being deployed 
 
 2. Test the "deposit" function of smart contract by sending the following amounts of ether. After each transaction, use the "contractBalance" function to verify that the funds were added to the contract: 
 
-- Transaction 1: send 1 ether as wei:
+### ContractBalance Transaction 1 - send 1 ether as wei screenshot
+
+![alt text](https://github.com/Khaingz/Solidity-Smart-Contract--Joint-saving-account/blob/main/Execution_Results/ContractBalance%20Transaction%201-%20send%201%20ether%20as%20wei%20Screenshot.png)
+
+
+
+
+
+
+
+
+
+
+### ContractBalance Transaction 2- send 10 ether as wei screenshot
 
 ![alt text](https://github.com/
 
@@ -59,21 +82,8 @@ The folowing screenshots demonstrates the Joint Savings contract being deployed 
 
 
 
-- Transaction 1: send 10 ether as wei:
 
-![alt text](https://github.com/
-
-
-
-
-
-
-
-
-
-
-
-- Transaction 1: send 10 ether as wei:
+# ContractBalance Transaction 3 - send 5 ether screenshot
 
 ![alt text](https://github.com/
 
@@ -89,11 +99,9 @@ The folowing screenshots demonstrates the Joint Savings contract being deployed 
 3. Once you’ve successfully deposited funds into the smart contract, test the contract’s withdrawal functionality by withdrawing 5 ether into accountOne and 10 ether into accountTwo. After each transaction, use the "contractBalance" function to verify that the funds were withdrawn from thecontract. Also, use the "lastToWithdraw" and "lastWithdrawAmount" functions to verify that the address and amount were correct.
 
 
--Withdrawal 1: Withdraw 5 ether into accountOne:
+### ContractBalance withdraw 1 - Withdraw 5 ether into accountOne screenshot, with lastToWithdraw & lastWithdrawAmount function
 
-![alt text](https://github.com/
-
-
+![alt text](https://github.com/Khaingz/Solidity-Smart-Contract--Joint-saving-account/blob/main/Execution_Results/contractBalance%20withdraw%201%20-%20Withdraw%205%20ether%20into%20accountOne%20screenshot%20with%20lastToWithdraw%20%26%20lastWithdrawAmount%20function.png)
 
 
 
@@ -102,9 +110,11 @@ The folowing screenshots demonstrates the Joint Savings contract being deployed 
 
 
 
-- Withdrawal 2: Withdraw 10 ether into accountTwo:
 
-![alt text](https://github.com/
+
+### ContractBalance withdraw 2 - Withdraw 10 ether into accountTwo screenshot, with lastToWithdraw & lastWithdrawAmount function
+
+![alt text](https://github.com/Khaingz/Solidity-Smart-Contract--Joint-saving-account/blob/main/Execution_Results/contractBalance%20withdraw%202%20-%20Withdraw%2010%20ether%20into%20accountTwo%20screenshot%20with%20lastToWithdraw%20%26%20lastWithdrawAmount%20function.png)
 
 
 
