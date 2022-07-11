@@ -69,11 +69,9 @@ The folowing screenshots demonstrates the Joint Savings contract being deployed 
 
 
 
-### ContractBalance Transaction 2- send 10 ether as wei screenshot
+### ContractBalance Transaction 2 - send 10 ether as wei screenshot
 
-![alt text](https://github.com/
-
-
+![alt text](https://github.com/Khaingz/Solidity-Smart-Contract--Joint-saving-account/blob/main/Execution_Results/contractBalance%20withdraw%202%20-%20Withdraw%2010%20ether%20into%20accountTwo%20screenshot%20with%20lastToWithdraw%20%26%20lastWithdrawAmount%20function.png)
 
 
 
@@ -83,9 +81,11 @@ The folowing screenshots demonstrates the Joint Savings contract being deployed 
 
 
 
-# ContractBalance Transaction 3 - send 5 ether screenshot
 
-![alt text](https://github.com/
+
+### ContractBalance Transaction 3 - send 5 ether screenshot
+
+![alt text](https://github.com/Khaingz/Solidity-Smart-Contract--Joint-saving-account/blob/main/Execution_Results/ContractBalance%20Transaction%203-%20send%205%20ether%20Screenshot.png)
 
 
 
@@ -99,7 +99,7 @@ The folowing screenshots demonstrates the Joint Savings contract being deployed 
 3. Once you’ve successfully deposited funds into the smart contract, test the contract’s withdrawal functionality by withdrawing 5 ether into accountOne and 10 ether into accountTwo. After each transaction, use the "contractBalance" function to verify that the funds were withdrawn from thecontract. Also, use the "lastToWithdraw" and "lastWithdrawAmount" functions to verify that the address and amount were correct.
 
 
-### ContractBalance withdraw 1 - Withdraw 5 ether into accountOne screenshot, with lastToWithdraw & lastWithdrawAmount function
+### ContractBalance withdraw transaction 1 - Withdraw 5 ether into accountOne screenshot, with "lastToWithdraw" & "lastWithdrawAmount" function
 
 ![alt text](https://github.com/Khaingz/Solidity-Smart-Contract--Joint-saving-account/blob/main/Execution_Results/contractBalance%20withdraw%201%20-%20Withdraw%205%20ether%20into%20accountOne%20screenshot%20with%20lastToWithdraw%20%26%20lastWithdrawAmount%20function.png)
 
@@ -112,7 +112,7 @@ The folowing screenshots demonstrates the Joint Savings contract being deployed 
 
 
 
-### ContractBalance withdraw 2 - Withdraw 10 ether into accountTwo screenshot, with lastToWithdraw & lastWithdrawAmount function
+### ContractBalance withdraw transaction 2 - Withdraw 10 ether into accountTwo screenshot, with "lastToWithdraw" & "lastWithdrawAmount" function
 
 ![alt text](https://github.com/Khaingz/Solidity-Smart-Contract--Joint-saving-account/blob/main/Execution_Results/contractBalance%20withdraw%202%20-%20Withdraw%2010%20ether%20into%20accountTwo%20screenshot%20with%20lastToWithdraw%20%26%20lastWithdrawAmount%20function.png)
 
@@ -129,8 +129,8 @@ The folowing screenshots demonstrates the Joint Savings contract being deployed 
 
 This project leverages Remix IDE to build and test smart contracts that are created in Solidity. Using the web version of Remix IDE, there is no need to install any software.
 
--Remix IDE - Open source application for developing, deploying, and administering smart contracts that run in Ethereum-based blockchains.
+- Remix IDE - Open source application for developing, deploying, and administering smart contracts that run in Ethereum-based blockchains.
 
-# Contributors
+# Contributor
 
 Khaing Thwe
